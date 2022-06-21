@@ -14,10 +14,12 @@
 * Python(3.9)
 * JavaScript
 * TypeScript
+* Java(JDK18.0)
 ### フレームワーク
 * .NET(2.2, 6.0)
 * Laravel(8.0)
 * Nuxt.js(2.10, 2.15)
+* Spring Boot(2.6)
 ### データベース
 * MySQL(5.7)
 ### AWS設計及び構築
@@ -51,7 +53,7 @@
 受託開発企業のソフトウェアエンジニアとしてサーバーサイドを中心にソフトウェアやWebアプリケーションなどの開発に従事。並行してプロジェクトリーダーや要件定義などのクライアント対応を行う。
 
 #### CRM連携バッチアプリケーション開発（2022/2~2022/5）
-クライアントのWebアプリケーションとCRM（Customer Relationship Management）製品を連携しデータを受け渡すバッチシステムを開発。要件定義からインフラ設計、リリース、障害対応を経験する。開発言語はC#（.NET 6）。開発環境はBitbucket、CodeCommit、Docker、MySQLを利用。インフラ設計・構築はAWS（VPC、ECS、SES、S3、RDS、CodeBuild、CodePipeline）を利用。
+金融系WebアプリケーションとCRM（Customer Relationship Management）製品を連携しデータを受け渡すバッチシステムを開発。要件定義からインフラ設計、リリース、障害対応を経験する。開発言語はC#（.NET 6）。開発環境はBitbucket、CodeCommit、Docker、MySQLを利用。インフラ設計・構築はAWS（VPC、ECS、SES、S3、RDS、CodeBuild、CodePipeline）を利用。
 
 ##### 担当業務
 * 要件定義・基本設計・詳細設計
@@ -60,3 +62,15 @@
 * インフラ設計・構築(AWS)
 * 窓口業務
 * コードレビュー
+
+#### 金融系Webアプリケーションインフラ構築支援（2021/12~2022/1）
+AWS Cognitoと金融系Webアプリケーションの連携及びインフラ設計構築支援。エンジニアリーダーとしてタスク管理や窓口業務、要件定義、インフラ設計、開発等を経験する。開発言語はC#（.NET 6）。開発環境はCodeCommit、Docker、MySQLを利用。インフラ設計・構築支援では主にAWSのVPC、ECS、ALB、RDS、Cognitoに関与する。
+
+##### 担当業務
+* 要件定義
+* 開発
+* インフラ設計・構築支援(AWS)
+* 窓口業務
+* タスク管理
+
+
